@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>SpringCache</name>
-	<description>Demo project for Spring Cache123</description>
+	<description>Demo project for Spring </description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
